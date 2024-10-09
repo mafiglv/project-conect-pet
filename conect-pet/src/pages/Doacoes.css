@@ -1,0 +1,49 @@
+.doacoes-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .header-section {
+    margin-bottom: 40px;
+  }
+  
+  .dog-img {
+    width: 150px;
+    border-radius: 50%;
+  }
+  
+  h2 {
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  p {
+    color: #666;
+    margin-bottom: 30px;
+  }
+  
+  .itens-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+  }
+  
+  .item-card {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .item-img {
+    width: 100px;
+    height: auto;
+    margin-bottom: 15px;
+  }
+  
+  .item-preco {
+    color: #28a745;
+    font-weight: bold;
+  }
+  
