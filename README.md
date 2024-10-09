@@ -1,5 +1,5 @@
 # Conect Pet | Conectando corações para transformar vidas! 🐾
-Uma plataforma completa para adoção, voluntariado e doações. [link vercel]
+Uma plataforma completa para adoção, voluntariado e doações.
 
 ## Sobre o ConectPet:
 Somos uma iniciativa inovadora que visa reduzir o abandono de animais errantes e promover a adoção responsável. Nossa plataforma conecta apaixonados por animais, ONGs e protetores, oferecendo um ambiente seguro e fácil de usar para encontrar o companheiro perfeito.
